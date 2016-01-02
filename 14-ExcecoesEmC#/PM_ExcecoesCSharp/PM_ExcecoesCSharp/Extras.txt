@@ -1,0 +1,68 @@
+﻿//
+// Monitoria *Monitoring - Pontifícia Universidade Católica de Minas Gerais
+// Unidade: São Gabriel
+// Disciplina: Programação Orientada a Objetos
+// *Discipline: Object-Oriented Programming
+// Igor Octaviano
+// https://github.com/igoroctaviano
+//
+ try
+            {
+                int res = x / y;
+            }
+            catch (DivideByZeroException ex)
+            {
+                Console.WriteLine(ex.Message);
+                Console.ReadKey();
+            }
+-----
+
+
+static string[] SplitString(string s)
+        {
+            if (s == null)
+                throw new Exception("String nula");
+
+            return (s.Split('-'));
+
+        }
+        static void Main(string[] args)
+        {
+            string s=null;
+
+            try
+            {
+                SplitString(s);
+            }
+            catch (ArgumentNullException ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+            Console.ReadKey();
+            
+        }
+
+
+
+		-----------------
+		string s = null;
+            int x = 6, y = 3;
+
+            try
+            {
+                int res = x/y;
+                SplitString(s);
+            }
+            catch (ArgumentNullException ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+            catch (Exception ex)
+            {
+                throw new Exception(ex.Message);
+            }
+            Console.ReadKey();
