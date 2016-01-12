@@ -1,11 +1,12 @@
 //
-// Monitoria *Monitoring - Pontifícia Universidade Católica de Minas Gerais
-// Unidade: São Gabriel
+// Pontifícia Universidade Católica de Minas Gerais
+// Unidade São Gabriel
 // Disciplina: Programação Orientada a Objetos
-// *Discipline: Object-Oriented Programming
+// *Object-Oriented Programming
+// 
 // Igor Octaviano
-// https://github.com/igoroctaviano
-//
+// More? access: https://github.com/igoroctaviano/
+// 
 using System;
 using System.Collections.Generic;
 using System.Linq;

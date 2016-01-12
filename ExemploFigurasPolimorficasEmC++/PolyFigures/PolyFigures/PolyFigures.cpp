@@ -1,14 +1,12 @@
 //
-// Monitoria *Monitoring - Pontifícia Universidade Católica de Minas Gerais
-// Unidade: São Gabriel
+// Pontifícia Universidade Católica de Minas Gerais
+// Unidade São Gabriel
 // Disciplina: Programação Orientada a Objetos
-// *Discipline: Object-Oriented Programming
+// *Object-Oriented Programming
+// 
 // Igor Octaviano
-// https://github.com/igoroctaviano
-//
-// PolyFigures.cpp : Defines the entry point for the console application.
-//
-
+// More? access: https://github.com/igoroctaviano/
+// 
 #include "stdafx.h"
 #include <time.h>
 #include <vector>

@@ -1,4 +1,13 @@
-﻿namespace AlarmClockProject
+﻿//
+// Pontifícia Universidade Católica de Minas Gerais
+// Unidade São Gabriel
+// Disciplina: Programação Orientada a Objetos
+// *Object-Oriented Programming
+// 
+// Igor Octaviano
+// More? access: https://github.com/igoroctaviano/
+// 
+namespace AlarmClockProject
 {
     partial class MenuAlarm
     {

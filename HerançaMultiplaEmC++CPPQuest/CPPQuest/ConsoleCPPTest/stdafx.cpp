@@ -1,11 +1,12 @@
 //
-// Monitoria *Monitoring - Pontifícia Universidade Católica de Minas Gerais
-// Unidade: São Gabriel
+// Pontifícia Universidade Católica de Minas Gerais
+// Unidade São Gabriel
 // Disciplina: Programação Orientada a Objetos
-// *Discipline: Object-Oriented Programming
+// *Object-Oriented Programming
+// 
 // Igor Octaviano
-// https://github.com/igoroctaviano
-//
+// More? access: https://github.com/igoroctaviano/
+// 
 // stdafx.cpp : source file that includes just the standard includes
 // ConsoleCPPTest.pch will be the pre-compiled header
 // stdafx.obj will contain the pre-compiled type information
